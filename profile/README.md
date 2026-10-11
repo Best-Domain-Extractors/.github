@@ -1,3 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Looking for the best free domain extractors in Canada? This guide reviews the top 5 tools in 2026 — Rakko, Domainsextractor, APIVoid, WMTools and PhraseFix — for pulling domains from text, URLs, backlinks and logs instantly.">
+  <meta name="keywords" content="domain extractor canada, free domain extractor, extract domains from text, backlink domain extractor, domain name extractor free">
+  <title>Best VPN Canada | Top Free Domain Extractors 2026</title>
+</head>
+<body>
+
+<h1>Best VPN Canada | Top Free Domain Extractors in 2026</h1>
+
 <!-- 1 -->
 <div class="tool">
   <div class="tool-number">01</div>
@@ -51,3 +64,6 @@
 <footer>
   All tools listed are free to use at the time of writing. Features can change, so give them a quick test yourself.
 </footer>
+
+</body>
+</html>
